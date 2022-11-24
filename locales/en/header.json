@@ -1,0 +1,24 @@
+{
+  "logoTitle": "logo",
+  "menu": {
+    "beginning": "Beginning",
+    "aboutUs": "About Us",
+    "toBeVolunteer": "to Be Volunteer",
+    "projects": "Projects",
+    "gallery": "Gallery",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "gallery": {
+    "summerCamps": "Summer Camps",
+    "solidarityTravel": "Solidarity Travel",
+    "culturalTrip": "Cultural Trip",
+    "trekkingSolidario": "Trekking Solidario",
+    "solidarityTourism": "Solidarity Tourism",
+    "familyVolunteer": "Family Volunteer",
+    "volunteeringForCompanies": "Volunteering for Companies",
+    "excursionsAndGetawaysToMorocco": "Excursions and Getaways to Morocco",
+    "faq": "Faq"
+  },
+  "participate": "Participate"
+}

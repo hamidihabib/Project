@@ -1,0 +1,24 @@
+{
+  "logoTitle": "logo",
+  "menu": {
+    "beginning": "Inicio",
+    "aboutUs": "Sobre Nosotros",
+    "toBeVolunteer": "Ser Voluntario",
+    "projects": "Proyectos",
+    "gallery": "Galeria",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "gallery": {
+    "summerCamps": "Campamentos De Verano",
+    "solidarityTravel": "Viajes Solidarios",
+    "culturalTrip": "Viaje Cultural",
+    "trekkingSolidario": "Trekking Solidario",
+    "solidarityTourism": "Turismo Solidario",
+    "familyVolunteer": "Voluntariado en Familia",
+    "volunteeringForCompanies": "Voluntariado Para Empresas",
+    "excursionsAndGetawaysToMorocco": "Excursiones Y Escapadas a Marruecos",
+    "faq": "Faq"
+  },
+  "participate": "Participa"
+}
