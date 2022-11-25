@@ -8,13 +8,12 @@ interface layout {
 
 function Layout({ children }: layout) {
   const router = useRouter();
-  const { route, asPath } = router;
 
   useEffect(() => {
     //COMMENT auto detect langue
     const userLang = localStorage.getItem("lang");
     if ((userLang !== null && userLang == "en") || userLang == "es") {
-      router.replace(route, asPath, { locale: userLang });
+      router.replace(router.route, router.asPath, { locale: userLang });
     } else if (userLang !== null && userLang !== "en" && userLang !== "es") {
       localStorage.removeItem("lang");
     }
@@ -38,7 +37,7 @@ function Layout({ children }: layout) {
     ) {
       localStorage.removeItem("theme");
     }
-  }, []);
+  },[]);
 
   return (
     <>
